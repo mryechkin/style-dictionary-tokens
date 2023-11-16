@@ -1,0 +1,23 @@
+{
+  "name": "style-dictionary-tokens",
+  "version": "1.0.0",
+  "description": "Sample project showing usage of W3C Design Tokens in Style Dictionary",
+  "type": "module",
+  "scripts": {
+    "build": "node src/index.js"
+  },
+  "keywords": [
+    "design-tokens",
+    "style-dictionary",
+    "DTCG"
+  ],
+  "author": "Mykhaylo Ryechkin (https://github.com/mryechkin)",
+  "license": "MIT",
+  "dependencies": {
+    "style-dictionary": "^3.9.0",
+    "style-dictionary-utils": "^2.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "color": {
+    "violet": {
+      "$type": "color",
+      "$value": "#7c3aed"
+    },
+    "rose": {
+      "$type": "color",
+      "$value": "#e11d48"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{color.violet}"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{color.rose}"
+    }
+  }
+}

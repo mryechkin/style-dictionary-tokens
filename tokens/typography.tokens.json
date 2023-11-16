@@ -1,0 +1,30 @@
+{
+  "fontSize": {
+    "small": {
+      "$type": "dimension",
+      "$value": "12px"
+    },
+    "medium": {
+      "$type": "dimension",
+      "$value": "16px"
+    },
+    "large": {
+      "$type": "dimension",
+      "$value": "24px"
+    }
+  },
+  "fontWeight": {
+    "light": {
+      "$type": "fontWeight",
+      "$value": 300
+    },
+    "normal": {
+      "$type": "fontWeight",
+      "$value": 400
+    },
+    "bold": {
+      "$type": "fontWeight",
+      "$value": 600
+    }
+  }
+}
